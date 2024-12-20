@@ -1,0 +1,4 @@
+excludedPlayers:
+  - "player1"
+  - "player2"
+  # Aggiungi qui i giocatori esclusi
